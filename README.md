@@ -12,7 +12,7 @@ Building modern web applications, intelligent AI tools, and automation systems f
 <p align="left">
   <a href="https://github.com/rishipatel186">GitHub</a> •
   <a>LinkedIn</a> •
-  <a>Portfolio</a> •
+  <a href="https://github.com/rishipatel186/portfolio">Portfolio Repository</a> •
   <a>Email</a>
 </p>
 
@@ -40,22 +40,22 @@ Full-stack OTT streaming platform built with the MERN stack.
 ### 🤖 Ultron AI Assistant
 Voice-controlled desktop assistant for natural-language interaction and automated computer tasks.  
 **Tech:** JavaScript, AI integrations, Voice interfaces, Automation  
-**Links:** <a>Repository</a> • <a>Live Demo</a> • <a>Demo Video</a>
+**Links:** <a>Repository</a> (placeholder) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
 
 ### 🎓 Campus Brain
 Intelligent campus platform for productivity, academic operations, and AI-assisted workflows.  
 **Tech:** MERN Stack, REST APIs, MongoDB, AI integrations  
-**Links:** <a>Repository</a> • <a>Live Demo</a> • <a>Demo Video</a>
+**Links:** <a>Repository</a> (placeholder) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
 
 ### 🎬 CineVerse
 MERN OTT platform focused on authentication, content discovery, search, and watchlist-ready UX.  
 **Tech:** React, Node.js, Express.js, MongoDB  
-**Links:** <a>Repository</a> • <a>Live Demo</a> • <a>Demo Video</a>
+**Links:** <a>Repository</a> (placeholder) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
 
 ### 🏋️ Prime Fitness
 Fitness-focused project with modern frontend tooling and full-stack development direction.  
 **Tech:** TypeScript, React, Tailwind CSS  
-**Links:** [Repository](https://github.com/rishipatel186/prime-fitness) • <a>Live Demo</a> • <a>Demo Video</a>
+**Links:** [Repository](https://github.com/rishipatel186/prime-fitness) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
 
 ## 🛠️ Tech Stack
 
@@ -73,11 +73,11 @@ Fitness-focused project with modern frontend tooling and full-stack development 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logoColor=00C7B7)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logoColor=4479A1)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
@@ -85,10 +85,10 @@ Fitness-focused project with modern frontend tooling and full-stack development 
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ### AI / Automation
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge&logo=openai&logoColor=white)
-![AI Integrations](https://img.shields.io/badge/AI_Integrations-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Voice Interfaces](https://img.shields.io/badge/Voice_Interfaces-111111?style=for-the-badge&logo=googleassistant&logoColor=EA4335)
-![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=zapier&logoColor=FF4F00)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge&logoColor=white)
+![AI Integrations](https://img.shields.io/badge/AI_Integrations-111111?style=for-the-badge&logoColor=FF6F00)
+![Voice Interfaces](https://img.shields.io/badge/Voice_Interfaces-111111?style=for-the-badge&logoColor=EA4335)
+![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logoColor=FF4F00)
 
 ## 🏗️ How I Build
 
@@ -138,7 +138,7 @@ Exploring open-source projects, contributing where I can, and learning from the 
 
 - GitHub: [rishipatel186](https://github.com/rishipatel186)
 - LinkedIn: <a>LinkedIn</a>
-- Portfolio: <a>Portfolio</a>
+- Portfolio: [Portfolio Repository](https://github.com/rishipatel186/portfolio)
 - Email: <a>Email</a>
 
 <p align="center">
