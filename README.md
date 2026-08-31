@@ -58,6 +58,8 @@ A modern frontend + full‑stack fitness project. Repository: [prime-fitness](ht
 
 ## 🔥 Featured Projects
 
+A concise, recruiter‑friendly view of each featured repo with a short README excerpt and a demo placeholder.
+
 <table width="100%">
   <tr>
     <td valign="top" width="48%">
@@ -67,6 +69,15 @@ A modern frontend + full‑stack fitness project. Repository: [prime-fitness](ht
 - Short: Desktop‑focused assistant prototype (voice + automation).
 - Focus: Voice interfaces, command execution, automation flows.
 - Tech (direction): JavaScript, Node.js, LLM integrations
+- Repo: (private / WIP)
+- Demo: Coming soon
+
+**README excerpt**
+
+```
+# Ultron AI Assistant
+(Repository is currently private or in early development.)
+```
 
     </td>
     <td valign="top" width="4%"></td>
@@ -77,6 +88,15 @@ A modern frontend + full‑stack fitness project. Repository: [prime-fitness](ht
 - Short: Campus productivity & workflows (AI helpers).
 - Focus: Student workflows, notes, lightweight integrations.
 - Tech (direction): MERN, REST APIs, AI integrations
+- Repo: (planning / WIP)
+- Demo: Coming soon
+
+**README excerpt**
+
+```
+# Campus Brain
+(Planning and early development — core ideas and prototypes live in private or upcoming repos.)
+```
 
     </td>
   </tr>
@@ -88,7 +108,15 @@ A modern frontend + full‑stack fitness project. Repository: [prime-fitness](ht
 
 - Short: MERN streaming platform direction — auth, discovery, watchlists.
 - Repo: [OTT-PLATFORM](https://github.com/rishipatel186/OTT-PLATFORM)
-- Tech: React, Node.js, Express, MongoDB
+- Demo: Coming soon
+
+**README excerpt (from repo)**
+
+```
+# OTT-PLATFORM
+```
+
+*A minimal README currently; the project structure and features are being developed in the repository.*
 
     </td>
     <td valign="top" width="4%"></td>
@@ -98,7 +126,53 @@ A modern frontend + full‑stack fitness project. Repository: [prime-fitness](ht
 
 - Short: Fitness UI & experience — modern frontend patterns.
 - Repo: [prime-fitness](https://github.com/rishipatel186/prime-fitness)
-- Tech: TypeScript, React, Tailwind CSS
+- Demo: (See repo or deployed preview if available)
+
+**README excerpt (from repo)**
+
+```
+# Wixstro - Wix Astro Template
+
+A modern, full-featured Wix Astro template built with React, TypeScript, and Tailwind CSS. This template provides a solid foundation for building dynamic, interactive websites with Wix's powerful e[...] 
+
+## 🚀 Features
+
+- Astro Framework - Modern static site generator with server-side rendering
+- React Integration - Full React support with JSX components
+- TypeScript - Type-safe development experience
+- Tailwind CSS - Utility-first CSS framework with custom components
+```
+
+*See the prime-fitness repository for full README and setup instructions.*
+
+    </td>
+  </tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr>
+    <td valign="top" width="48%">
+
+**🔧 Portfolio / Template (portfilio)**
+
+- Short: React + TypeScript + Vite starter / portfolio template.
+- Repo: [portfilio](https://github.com/rishipatel186/portfilio)
+- Demo: Coming soon
+
+**README excerpt (from repo)**
+
+```
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```
+
+    </td>
+    <td valign="top" width="4%"></td>
+    <td valign="top" width="48%">
+
+**Notes**
+
+- Live demos are set as placeholders until a stable deployment URL is available. I prefer to link only verified demo URLs to avoid broken links.
+- For any project you'd like prioritized for a demo, tell me which repo and I can help scaffold a GitHub Pages or Vercel preview and add the link here.
 
     </td>
   </tr>
