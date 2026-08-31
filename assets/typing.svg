@@ -1,0 +1,18 @@
+<svg width="1000" height="84" viewBox="0 0 1000 84" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Typing Animation</title>
+  <desc id="desc">Animated typing style text: FULL-STACK, AI, AUTOMATION, SYSTEMS, BUILDING.</desc>
+  <rect width="1000" height="84" rx="10" fill="#050607"/>
+  <rect x="1" y="1" width="998" height="82" rx="9" fill="none" stroke="#1f2937"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="600">
+    <text x="36" y="54" fill="#e5e7eb">$ </text>
+    <text x="78" y="54" fill="#f3f4f6">FULL-STACK • AI • AUTOMATION • SYSTEMS • BUILDING</text>
+    <rect x="908" y="29" width="12" height="30" fill="#ef4444">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0" y="0" width="1000" height="84" fill="none" stroke="#3b82f6" opacity="0.13">
+    <animate attributeName="opacity" values="0.05;0.18;0.05" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

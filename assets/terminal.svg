@@ -1,0 +1,22 @@
+<svg width="1200" height="88" viewBox="0 0 1200 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Footer Terminal Banner</title>
+  <desc id="desc">Animated terminal style footer containing BUILD LEARN SHIP IMPROVE.</desc>
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="88" rx="10" fill="#050607"/>
+  <rect x="1" y="1" width="1198" height="86" rx="9" fill="none" stroke="#1f2937"/>
+  <rect x="0" y="-40" width="1200" height="40" fill="url(#scan)">
+    <animate attributeName="y" from="-40" to="88" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="28" cy="24" r="5" fill="#ef4444"/>
+  <circle cx="46" cy="24" r="5" fill="#f59e0b"/>
+  <circle cx="64" cy="24" r="5" fill="#22c55e"/>
+  <text x="96" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#e5e7eb" letter-spacing="2">
+    BUILD • LEARN • SHIP • IMPROVE
+  </text>
+</svg>
