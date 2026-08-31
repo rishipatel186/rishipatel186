@@ -1,0 +1,14 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated glowing divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="12" x2="1200" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111111"/>
+      <stop offset="0.5" stop-color="#ef4444"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="24" fill="transparent"/>
+  <line x1="0" y1="12" x2="1200" y2="12" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="0" cy="12" r="3" fill="#fca5a5">
+    <animate attributeName="cx" values="0;1200;0" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
