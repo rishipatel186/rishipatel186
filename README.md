@@ -3,10 +3,11 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Rishabh Patel</h1>
+
 <h3 align="center">Full-Stack Developer · AI & Automation Builder</h3>
 
 <p align="center">
-  I build modern full-stack applications, AI-powered tools, and automation systems focused on solving practical problems.
+  I build modern full-stack applications, AI-powered tools, and automation systems that solve practical problems.
 </p>
 
 <p align="center">
@@ -31,160 +32,143 @@
   <img src="./assets/divider.svg" alt="Decorative divider" width="60%" />
 </p>
 
-🚀 Currently Building
+## 🚀 Currently Building
 
-🤖 Ultron AI Assistant
+### 🤖 Ultron AI Assistant
 
-AI-powered desktop assistant focused on voice interaction, intelligent command handling, and computer automation. WIP
+An AI-powered desktop assistant focused on voice interaction, intelligent command execution, AI reasoning, and computer automation.
 
-🎓 Campus Brain
+**Focus:** AI · Voice Automation · Desktop Automation
+**Status:** 🚧 Work in Progress
 
-An AI-powered campus platform concept designed to bring academic and student workflows into one system. In Development
+### 🎬 CineVerse
 
-🎬 CineVerse
+A MERN-based OTT platform focused on authentication, movie discovery, personalized experiences, and streaming-oriented functionality.
 
-A MERN-based OTT platform focused on authentication, movie discovery, streaming-related features, and personalized user experiences. WIP
+**Focus:** MERN Stack · Authentication · APIs · Database Design
+**Status:** 🚧 Work in Progress
 
-🔥 Featured Projects
+---
+
+## 🔥 Featured Projects
 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
 
-🤖 Ultron AI Assistant
+### 🤖 Ultron AI Assistant
 
-AI-powered desktop assistant focused on voice interaction, AI reasoning, and computer automation.
+AI-powered desktop assistant designed to combine voice interaction, AI reasoning, application control, and computer automation.
 
-Focus: AI Voice Automation
+**Focus:** AI Voice Automation
+**Stack:** Python · AI APIs · Automation
+**Status:** 🚧 WIP · Private Repository
 
-Status: WIP · Repository currently private
-
+```
 </td>
+
 <td valign="top" width="50%">
+```
 
-🎓 Campus Brain
+### 🎬 CineVerse
 
-Intelligent campus platform concept for academic workflows, student productivity, and AI assistance.
+Full-stack OTT platform built with the MERN stack for movie discovery, authentication, watchlists, and streaming-oriented experiences.
 
-Focus: MERN AI Campus
+**Focus:** Full-Stack Web Development
+**Stack:** React · Node.js · Express · MongoDB
+**Repository:** `OTT-PLATFORM`
 
-Status: In Development
-
+```
 </td>
-
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-
-🎬 CineVerse
-
-MERN OTT platform for movie discovery and streaming-oriented user experiences.
-
-Repository: OTT-PLATFORM
-
-Focus: React Node.js Express MongoDB
-
-</td>
-<td valign="top" width="50%">
-
-🏋️ Prime Fitness
-
-Modern frontend/template project focused on fitness-oriented UI and web experience.
-
-Repository: prime-fitness
-
-Focus: React TypeScript Tailwind CSS
-
-</td>
+```
 
   </tr>
 </table>
 
-🛠️ Tech Stack
+---
 
-Languages
+## 🛠️ Tech Stack
 
-JavaScript · TypeScript · Java (learning) · Python (learning) · HTML · CSS
+### Languages
 
-Frontend
+`JavaScript` · `TypeScript` · `Java` · `Python` · `HTML` · `CSS`
 
-React · Tailwind CSS
+### Frontend
 
-Backend
+`React` · `Tailwind CSS` · `Responsive UI` · `UI/UX`
 
-Node.js · Express.js · REST APIs
+### Backend
 
-Database
+`Node.js` · `Express.js` · `REST APIs` · `Authentication`
 
-MongoDB · SQL (basic)
+### Database
 
-Tools
+`MongoDB` · `SQL`
 
-Git · GitHub · VS Code
+### Tools
 
-AI & Automation
+`Git` · `GitHub` · `VS Code`
 
-LLM Integrations · AI APIs · Voice Interfaces · Automation Workflows
+### AI & Automation
 
-🏗️ How I Build
+`LLM Integrations` · `AI APIs` · `Voice Interfaces` · `Desktop Automation` · `Automation Workflows`
 
-Problem
-   ↓
-Research
-   ↓
-Architecture
-   ↓
-Build
-   ↓
-Test
-   ↓
-Deploy
-   ↓
-Improve
+---
+
+## 🏗️ How I Build
+
+```text
+💡 Problem
+    ↓
+🔎 Research
+    ↓
+📐 Architecture
+    ↓
+⚙️ Build
+    ↓
+🧪 Test
+    ↓
+🚀 Deploy
+    ↓
+📈 Improve
+```
 
 I focus on building software with clear architecture, useful interfaces, maintainable code, and continuous iteration.
 
-🧠 Engineering Focus
+---
 
-Full-stack architecture
+## 🧠 Engineering Focus
 
-REST API design
+* Full-stack application architecture
+* REST API design
+* Authentication & authorization
+* Database design
+* Responsive UI/UX
+* AI integration
+* Voice interfaces
+* Automation systems
+* Testing & debugging
+* Git workflows
+* Deployment
+* Technical documentation
 
-Authentication
+---
 
-Database design
+## 📚 Currently Learning
 
-Responsive UI/UX
+* Advanced JavaScript & modern development patterns
+* MERN architecture & backend engineering
+* System design fundamentals
+* Testing & CI/CD workflows
+* AI application development
+* Data Structures & Algorithms
+* Scalable application architecture
 
-AI integration
+---
 
-Automation
+## 📈 GitHub Activity
 
-Testing
-
-Git workflows
-
-Documentation
-
-Deployment
-
-📚 Currently Learning
-
-Advanced JavaScript and modern patterns
-
-MERN architecture and backend engineering
-
-System design fundamentals
-
-Testing and CI workflows
-
-AI application development
-
-Data Structures & Algorithms
-
-📈 GitHub Activity
-
-Building consistently, learning in public, and gradually expanding into open source.
+I build consistently, experiment with new technologies, and document my progress while expanding my skills across full-stack development, AI, and automation.
 
 <p align="center">
   <a href="https://github.com/rishipatel186">
@@ -198,12 +182,15 @@ Building consistently, learning in public, and gradually expanding into open sou
   </a>
 </p>
 
-🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/rishipatel186">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/rishabh-patel-984637372/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
