@@ -1,146 +1,195 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Animated futuristic hero banner with Rishabh Patel developer identity" width="100%" />
+  <img src="./assets/hero.svg" alt="Futuristic hero banner — Rishabh Patel: Full-Stack & AI" width="100%" />
 </p>
 
-# 👋 Hi, I'm Rishabh Patel
-### Full-Stack Developer | AI & Automation Builder
+<h1 align="center">👋 Hi, I'm Rishabh Patel</h1>
+<h3 align="center">Full-Stack Developer | AI &amp; Automation Builder</h3>
 
-<p align="left">
-Building modern web applications, intelligent AI tools, and automation systems focused on real-world problem solving.
-</p>
-
-<p align="left">
-  <a href="https://github.com/rishipatel186">GitHub</a> •
-  <a>LinkedIn</a> •
-  <a href="https://github.com/rishipatel186/portfolio">Portfolio Repository</a> •
-  <a>Email</a>
+<p align="center">
+Building practical full‑stack applications, AI‑powered tools, and automation systems that solve real problems — focused on clean architecture, measurable results, and continual improvement.
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Animated typing-style developer identity lines" width="100%" />
+  <a href="https://github.com/rishipatel186">GitHub</a>
+  • <a href="https://github.com/rishipatel186/portfilio">Portfolio</a>
+  • <a href="https://rishipatel186.github.io">Website</a>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="Animated subtle red divider" width="100%" />
+  <img src="./assets/typing.svg" alt="Animated typing banner: FULL‑STACK • AI • AUTOMATION • SYSTEMS" width="75%" />
+</p>
+
+---
+
+<!-- Quick identity cards -->
+
+<table align="center" width="90%">
+  <tr align="center">
+    <td width="25%">💻<br/><strong>Full‑Stack Development</strong></td>
+    <td width="25%">🤖<br/><strong>AI &amp; Automation</strong></td>
+    <td width="25%">🧠<br/><strong>Problem Solving</strong></td>
+    <td width="25%">🚀<br/><strong>Project Building</strong></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="Subtle divider" width="60%" />
 </p>
 
 ## 🚀 Currently Building
 
-### 🤖 Ultron AI Assistant
-AI-powered desktop assistant focused on voice interaction, AI reasoning, and computer automation.
+Below are the major projects I'm focusing on right now. Where a repository exists, I've linked it — otherwise the item is a work in progress.
 
-### 🎓 Campus Brain
-AI-powered campus platform designed to unify student, teacher, and administrative workflows.
+### 🤖 Ultron — AI Assistant (WIP)
+Focused on a lightweight desktop assistant prototype that ties voice input, automation flows, and AI reasoning together for everyday productivity. (Repository: private / in progress)
 
-### 🎬 CineVerse
-Full-stack OTT streaming platform built with the MERN stack.
+### 🎓 Campus Brain — Academic Productivity (WIP)
+An intelligent campus platform concept for student workflows, notes, and AI‑assisted helpers. Currently in planning and early development.
+
+### 🎬 CineVerse — MERN OTT Platform
+A MERN‑based streaming platform direction. Repository: [OTT-PLATFORM](https://github.com/rishipatel186/OTT-PLATFORM) — work in progress.
+
+### 🏋️ Prime Fitness
+A modern frontend + full‑stack fitness project. Repository: [prime-fitness](https://github.com/rishipatel186/prime-fitness)
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="Subtle divider" width="40%" />
+</p>
 
 ## 🔥 Featured Projects
 
-### 🤖 Ultron AI Assistant
-Voice-controlled desktop assistant for natural-language interaction and automated computer tasks.  
-**Tech:** JavaScript, AI integrations, Voice interfaces, Automation  
-**Links:** <a>Repository</a> (placeholder) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
+<table width="100%">
+  <tr>
+    <td valign="top" width="48%">
 
-### 🎓 Campus Brain
-Intelligent campus platform for productivity, academic operations, and AI-assisted workflows.  
-**Tech:** MERN Stack, REST APIs, MongoDB, AI integrations  
-**Links:** <a>Repository</a> (placeholder) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
+**🤖 Ultron — AI Assistant**
 
-### 🎬 CineVerse
-MERN OTT platform focused on authentication, content discovery, search, and watchlist-ready UX.  
-**Tech:** React, Node.js, Express.js, MongoDB  
-**Links:** <a>Repository</a> (placeholder) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
+- Short: Desktop‑focused assistant prototype (voice + automation).
+- Focus: Voice interfaces, command execution, automation flows.
+- Tech (direction): JavaScript, Node.js, LLM integrations
 
-### 🏋️ Prime Fitness
-Fitness-focused project with modern frontend tooling and full-stack development direction.  
-**Tech:** TypeScript, React, Tailwind CSS  
-**Links:** [Repository](https://github.com/rishipatel186/prime-fitness) • <a>Live Demo</a> (placeholder) • <a>Demo Video</a> (placeholder)
+    </td>
+    <td valign="top" width="4%"></td>
+    <td valign="top" width="48%">
+
+**🎓 Campus Brain**
+
+- Short: Campus productivity & workflows (AI helpers).
+- Focus: Student workflows, notes, lightweight integrations.
+- Tech (direction): MERN, REST APIs, AI integrations
+
+    </td>
+  </tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr>
+    <td valign="top" width="48%">
+
+**🎬 CineVerse / OTT‑Platform**
+
+- Short: MERN streaming platform direction — auth, discovery, watchlists.
+- Repo: [OTT-PLATFORM](https://github.com/rishipatel186/OTT-PLATFORM)
+- Tech: React, Node.js, Express, MongoDB
+
+    </td>
+    <td valign="top" width="4%"></td>
+    <td valign="top" width="48%">
+
+**🏋️ Prime Fitness**
+
+- Short: Fitness UI & experience — modern frontend patterns.
+- Repo: [prime-fitness](https://github.com/rishipatel186/prime-fitness)
+- Tech: TypeScript, React, Tailwind CSS
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="Subtle divider" width="40%" />
+</p>
 
 ## 🛠️ Tech Stack
 
+A focused, recruiter‑friendly view of the tools and languages I use.
+
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+- JavaScript • TypeScript • Java (learning) • Python (learning) • HTML • CSS
 
 ### Frontend
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+- React • Tailwind CSS
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logoColor=00C7B7)
+- Node.js • Express.js • REST APIs
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logoColor=4479A1)
+- MongoDB • SQL (basic)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+- Git • GitHub • VS Code
 
 ### AI / Automation
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge&logoColor=white)
-![AI Integrations](https://img.shields.io/badge/AI_Integrations-111111?style=for-the-badge&logoColor=FF6F00)
-![Voice Interfaces](https://img.shields.io/badge/Voice_Interfaces-111111?style=for-the-badge&logoColor=EA4335)
-![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logoColor=FF4F00)
+- LLM integrations • Voice interfaces • Automation workflows
 
-## 🏗️ How I Build
+
+## 🏗️ My Development Workflow
 
 ```mermaid
 flowchart TD
-    A[Problem] --> B[Research]
-    B --> C[Design]
-    C --> D[Architecture]
-    D --> E[Development]
-    E --> F[Testing]
-    F --> G[Deployment]
-    G --> H[Iteration]
+    Problem --> Research
+    Research --> Architecture
+    Architecture --> Development
+    Development --> Testing
+    Testing --> Deployment
+    Deployment --> Iteration
 ```
 
-Focused on clean architecture, API design, database design, authentication, responsive UI, testing, documentation, and continuous improvement.
+I design systems with maintainability in mind: clear APIs, layered architecture, tests, and repeatable deployments.
 
-## 📊 GitHub Analytics
+## 🧠 Engineering Focus
 
-- [GitHub Profile Overview](https://github.com/rishipatel186)
-- [Repositories](https://github.com/rishipatel186?tab=repositories)
-- [Contribution Activity](https://github.com/rishipatel186)
-
-## 🧠 Currently Learning
-
-- Advanced JavaScript
-- MERN architecture
-- Backend engineering
+- Full‑stack architecture
 - REST API design
-- Git & GitHub workflows
-- Testing
-- AI integration
-- AI agents
+- Authentication
+- Database design
+- Responsive interfaces
+- AI integration & automation
+- Testing & CI
+- Git workflows & code reviews
+- Deployment & monitoring
+- Documentation
+
+## 📚 Currently Learning
+
+- Advanced JavaScript & modern patterns
+- MERN architecture & backend engineering
 - System design fundamentals
-- Data Structures & Algorithms
+- Testing & CI
+- AI application development
+- Data structures & algorithms
 
-## 🌱 Open Source
+## 📈 GitHub Activity
 
-Exploring open-source projects, contributing where I can, and learning from the wider developer community.
+Building consistently and learning in public. See my repositories and contributions on my profile:
 
-## 📈 Development Philosophy
+- GitHub: https://github.com/rishipatel186
+- Repositories: https://github.com/rishipatel186?tab=repositories
+
+## 🛠️ What I'm Working Toward
+
+- Production‑quality projects
+- Open‑source contributions
+- Strong backend engineering
+- AI‑powered applications
+- Better system design and architecture
+
+## 🌐 Connect with Me
+
+- GitHub — https://github.com/rishipatel186
+- Portfolio — https://github.com/rishipatel186/portfilio
+- Website — https://rishipatel186.github.io
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Animated terminal-style development philosophy" width="100%" />
+  <img src="./assets/terminal.svg" alt="Terminal-style footer" width="70%" />
 </p>
 
-## 🌐 Connect With Me
-
-- GitHub: [rishipatel186](https://github.com/rishipatel186)
-- LinkedIn: <a>LinkedIn</a>
-- Portfolio: [Portfolio Repository](https://github.com/rishipatel186/portfolio)
-- Email: <a>Email</a>
-
-<p align="center">
-  <sub>Designed for clarity, built for impact — Full-Stack + AI/Automation direction.</sub>
-</p>
+<p align="center"><sub>Designed to be concise, dark‑themed, and recruiter‑focused — Full‑Stack + AI/Automation.</sub></p>
